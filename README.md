@@ -5,7 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-I'm a software developer.  
+Welcome to my GitHub profile!  
+
+I'm Chao, a Full-Stack Software Developer living in Tasmania, Australia.  
+  
+I love everything tech!
 
 - 🔭 I’m currently looking for a software development job.
 
